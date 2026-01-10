@@ -4,12 +4,6 @@
   <strong>Quantum Physics | Physics-Aware AI</strong>
 </p>
 
-<p align="center">
-  <a href="https://lunalux.io/blog"><strong>lunalux.io</strong></a>
-</p>
-
----
-
 ### 🌟 About Me
 I am a **quantum physicsist** and **researcher in computer vision**. But really I am on a life-long adventure trying to learn as much about the world as I can, and experience as many things as I can.
 
