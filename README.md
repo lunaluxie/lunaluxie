@@ -10,7 +10,8 @@ I am a **quantum physicsist** and **researcher in computer vision**. But really 
 Sometimes, I bottle up my experiences and package them into "little snacks" for others to enjoy.
 
 ### ✍️ Latest snacks from the blog
-<ul><li><a href='https://lunalux.io/delightful-surprises'>✨ delightful surprises</a></li><li><a href='https://lunalux.io/mathml-core'>why math (on this site) looks weird</a></li><li><a href='https://lunalux.io/a11y-tools'>trying (computer) accessibility tools</a></li></ul>
+<ul><li><a href='https://lunalux.io/blog/delightful-surprises'>✨ delightful surprises</a></li><li><a href='https://lunalux.io/blog/mathml-core'>why math (on this site) looks weird</a></li><li><a href='https://lunalux.io/blog/a11y-tools'>trying (computer) accessibility tools</a></li></ul>
+
 
 ### 🔬 Research
 I focus on the intersection between **Machine Learning** and **Physics**. My core mission is to develop **Responsible and Ethical AI**. 
