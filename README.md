@@ -19,6 +19,6 @@ I focus on the intersection between **Machine Learning** and **Physics**. My cor
 I am currently exploring ways to ground machine learning models in reality by exploiting physical symmetries. This approach allows for performance guarantees that aren't possible with traditional methods, which is a critical step in ensuring trust and safety in machine learning systems.
 
 ### 🎓 Education & Work
+- 🤖 **Computer Vision Researcher** | Aalborg University (Current)
 - 🌌 **Master's Degree in Quantum Physics** (Current)
 - 📜 **Bachelor's Degree in Physics** | University of Copenhagen
-- 🤖 **Researcher in Computer Vision** | Aalborg University
