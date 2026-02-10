@@ -10,7 +10,7 @@ I am a **quantum physicsist** and **researcher in computer vision**. But really 
 Sometimes, I bottle up my experiences and package them into "little snacks" for others to enjoy.
 
 ### ✍️ Latest snacks from the blog
-<ul><li><a href='https://lunalux.io/blog/ephemerance'>maybe ephemerance is okay</a></li><li><a href='https://lunalux.io/blog/delightful-surprises'>✨ delightful surprises</a></li><li><a href='https://lunalux.io/blog/mathml-core'>why math (on this site) looks weird</a></li></ul>
+<ul><li><a href='https://lunalux.io/blog/apple-ipad'>not even apple understands the ipad</a></li><li><a href='https://lunalux.io/blog/ephemerance'>maybe ephemerance is okay</a></li><li><a href='https://lunalux.io/blog/delightful-surprises'>✨ delightful surprises</a></li></ul>
 
 
 ### 🔬 Research
